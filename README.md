@@ -1,4 +1,4 @@
-# vue example: block scheme buildre
+# vue example: block scheme builder
 
 ## Project setup
 ```
