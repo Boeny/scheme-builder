@@ -1,4 +1,4 @@
-# fastpro
+# vue example: block scheme buildre
 
 ## Project setup
 ```
